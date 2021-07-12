@@ -1,0 +1,172 @@
+.div-blk{
+	display: block;
+}
+.div-a1{
+	
+	margin: 50px 0 0 140px;
+	
+	height: 200px;
+	
+	border: 5px solid red;
+	transform: skew(-20deg);
+	border-radius: 20px 20px 20px 20px;
+	float: left;
+}
+.div-a2{
+	
+	margin: 50px 0 0 70px;
+	height: 200px;
+	
+	border: 5px solid red;
+	transform: skew(20deg);
+	border-radius: 20px 20px 20px 20px;
+	float: left;
+
+}
+.div-a3{
+	
+	margin: 150px 0 0 -80px;
+	
+	width: 70px;
+	border: 5px Solid red;
+	
+	float: left;
+
+}
+.div-b1{
+	
+	margin: 250px 0 0 100px;
+	
+	height: 100px;
+	width: 150px;
+	border: 10px solid red;
+	border-radius: 0px 50px 50px 0px;
+	border-right: none;
+}
+.div-b2{
+	
+	margin: 0px 0 0 100px;
+	
+	height: 100px;
+	width: 150px;
+	border: 10px solid red;
+	border-radius: 0px 50px 50px 0px;
+	border-right: none;
+}
+.div-c{
+	
+	margin: 50px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	border: 10px solid red;
+	border-radius: 100px 80px 60px 100px;
+	border-right: none;
+}
+.div-d{
+	
+	margin: 50px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	border: 10px solid red;
+	border-radius: 0px 100px 100px 0px;
+	border-right: none;
+}
+.div-e1{
+	
+	margin: 50px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	
+	border: 10px solid red;
+	border-Right: none;
+	border-radius: 20px 20px 20px 20px;
+	float: left;
+}
+.div-e2{
+	
+	margin: 150px 0 0 -160px;
+	width: 120px;
+	
+	border: 5px solid red;
+	
+	border-radius: 20px 20px 20px 20px;
+	float: left;
+
+}
+.div-e3{
+	
+	margin: 50px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	border: 10px solid red;
+	border-radius: 60px 30px 30px 60px;
+	border-right: none;
+	float: left;
+}
+.div-e4{
+	
+	margin: 150px 0 0 -160px;
+	width: 130px;
+	
+	border: 5px solid red;
+	
+	border-radius: 20px 20px 20px 20px;
+	float: left;
+
+}
+
+.div-f1{
+	
+	margin: 600px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	
+	border: 10px solid red;
+	border-Right: none;
+	border-bottom: none;
+	border-radius: 20px 20px 20px 20px;
+	
+}
+.div-f2{
+	
+	margin: -120px 0 0 100px;
+	width: 120px;
+	
+	border: 5px solid red;
+	
+	border-radius: 20px 20px 20px 20px;
+	
+
+}
+.div-g1{
+	
+	margin: 150px 0 0 100px;
+	
+	height: 200px;
+	width: 150px;
+	border: 15px solid red;
+	border-radius: 100px 80px 100px 100px;
+	border-right: none;
+	float: left;
+}
+.div-g2
+{
+	margin: 245px 0 0 -25px;
+	height: 80px;
+	border-radius: 200px 220px 1000px 0px;
+	border: 12px solid red;
+	float: left;
+}
+.div-g3
+{
+	margin: 245px 0 0 -110px;
+	width: 80px;
+	border-radius: 200px 220px 220px 220px;
+	border: 10px solid red;
+	float: left;
+}
